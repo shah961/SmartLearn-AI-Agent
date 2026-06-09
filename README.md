@@ -90,7 +90,7 @@ SmartLearn-AI/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/SmartLearn-AI.git
+git clone https://github.com/shah961/SmartLearn-AI.git
 
 cd SmartLearn-AI
 ```
@@ -101,11 +101,6 @@ cd SmartLearn-AI
 pip install -r requirements.txt
 ```
 
-## Set Environment Variable
-
-```env
-GEMINI_API_KEY=YOUR_API_KEY
-```
 
 ## Run Locally
 
@@ -200,8 +195,9 @@ MIT License
 
 ---
 
-# ❤️ Author
+# ❤️ Developer 
 
+Muhammad Shahzaib 
 Built using Flask + Google Gemini AI.
 Status
 
