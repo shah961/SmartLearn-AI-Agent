@@ -111,7 +111,7 @@ python app.py
 Open:
 
 ```text
-http://localhost:8000
+https://smart-learn-ai-agent.vercel.app
 ```
 
 ---
