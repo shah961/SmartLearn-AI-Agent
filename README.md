@@ -81,6 +81,7 @@ SmartLearn-AI/
 ├── requirements.txt
 ├── vercel.json
 └── README.md
+└── LICENSE
 ```
 
 ---
